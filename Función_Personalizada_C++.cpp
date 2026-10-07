@@ -8,7 +8,7 @@ void log(const char* message)
 int main()
 
 {
-    std::cout<<"pendejo"<<std::endl;
+    std::cout<<"Función log"<<std::endl;
     std::cin.get();
     return 0;
 }
